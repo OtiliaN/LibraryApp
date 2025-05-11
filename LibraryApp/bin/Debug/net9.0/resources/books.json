@@ -1,0 +1,37 @@
+[
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Quantity": 5,
+    "TimesBorrowed": 10,
+    "Id": 1
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Quantity": 2,
+    "TimesBorrowed": 7,
+    "Id": 2
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Quantity": 8,
+    "TimesBorrowed": 1,
+    "Id": 3
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Quantity": 4,
+    "TimesBorrowed": 5,
+    "Id": 4
+  },
+  {
+    "Title": "Clean Code",
+    "Author": "Robert Martin",
+    "Quantity": 5,
+    "TimesBorrowed": 20,
+    "Id": 5
+  }
+]
